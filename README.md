@@ -1,5 +1,12 @@
 
-                               
+
+                
+     _      __    __                  
+    | | /| / /__ / /______  __ _  ___ 
+    | |/ |/ / -_) / __/ _ \/  ' \/ -_)
+    |__/|__/\__/_/\__/\___/_/_/_/\__/ 
+                                     
+
 
 < ------------------------------------------------------------------------- >
 - 👋 Hi, I’m Dan
@@ -7,6 +14,8 @@
 - 🌱 I’m currently learning and I know Python, Golang, Java, C++, HTML, SQL
 
 < ------------------------------------------------------------------------- >
+
+
 
 <!---
 daniilsonufrijuks/daniilsonufrijuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
