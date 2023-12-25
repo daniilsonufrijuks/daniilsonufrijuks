@@ -16,6 +16,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning and I know Python, Golang, Java, C++, HTML, SQL
 
+- My website: https://daniilsonufrijuks.github.io
+
 < ------------------------------------------------------------------------- >
 
 
