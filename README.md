@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning and I know Python, Golang, Java, C++, HTML, SQL, C#
 
 - My website: https://daniilsonufrijuks.github.io
-- My Linkedin: linkedin.com/in/daniils-onufrijuks-a4391930b
+- My Linkedin: https://linkedin.com/in/daniils-onufrijuks-a4391930b
 
 
 
