@@ -20,6 +20,7 @@
 - My Linkedin: linkedin.com/in/daniils-onufrijuks-a4391930b
 
 
+
 < ------------------------------------------------------------------------- >
 
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=daniilsonufrijuks&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
