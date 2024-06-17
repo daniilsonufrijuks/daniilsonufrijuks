@@ -14,7 +14,7 @@
 < ------------------------------------------------------------------------- >
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning and I know Python, Golang, Java, C++, HTML, SQL, C#
+- 🌱 I’m currently learning and I know Python, Golang, Java, C++, HTML, SQL, PHP, C#
 
 - My website: https://daniilsonufrijuks.github.io
 - My Linkedin: https://linkedin.com/in/daniils-onufrijuks-a4391930b
