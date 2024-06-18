@@ -20,7 +20,6 @@
 - My Linkedin: https://linkedin.com/in/daniils-onufrijuks-a4391930b
 - My portfolio: https://daniilsonufrijuks.github.io/PORTFOLIO-MAIN/
 
-- W3schools: https://gist.github.com/daniilsonufrijuks/31119b27edd7cbf5d10b1130bf988ff0
 
 
 
