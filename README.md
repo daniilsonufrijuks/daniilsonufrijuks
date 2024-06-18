@@ -11,7 +11,7 @@
                                                                                     
                                                                                     
 
-< ----------------------------------------------------------------------------------------------------------- >
+< -------------------------------------------------------------------------------------------------------------------------------------------- >
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning and I know Python, Golang, Java, C++, HTML, SQL, PHP, C#
@@ -22,7 +22,7 @@
 
 
 
-< ---------------------------------------------------------------------------------------------------------- >
+< ------------------------------------------------------------------------------------------------------------------------------------------- >
 
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=daniilsonufrijuks&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilsonufrijuks)](https://github.com/anuraghazra/github-readme-stats)
