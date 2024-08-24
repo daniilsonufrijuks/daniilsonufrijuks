@@ -20,7 +20,7 @@
 - My Linkedin: https://linkedin.com/in/daniils-onufrijuks-a4391930b
 - My portfolio: https://daniilsonufrijuks.github.io/PORTFOLIO-MAIN/
 
-- Snake game: https://github.com/Platane/Platane/tree/master
+- EWeb market example: https://mimarketnet.netlify.app
 
 
 
