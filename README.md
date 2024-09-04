@@ -14,13 +14,14 @@
 < -------------------------------------------------------------------------------------------------------------------------------------------------- >
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning and I know Python, Golang, Java, C++, HTML, SQL, PHP, C#
+- 🌱 My skills: Python, Golang, Java, C++, HTML, SQL, PHP, C#
 
 - My website: https://daniilsonufrijuks.github.io
 - My Linkedin: https://linkedin.com/in/daniils-onufrijuks-a4391930b
 - My portfolio: https://daniilsonufrijuks.github.io/PORTFOLIO-MAIN/
 
 - Web market example: https://mimarketnet.netlify.app
+- Online programming courses website: https://kotlinhubnet.netlify.app 
 
 
 
