@@ -14,7 +14,8 @@
 < -------------------------------------------------------------------------------------------------------------------------------------------------- >
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in programming
-- 🌱 My skills: Python, Golang, Java, C++, HTML, SQL, PHP, C#, Vue js, Blade, Laravel, MySQL
+- 🌱 My skills: Python, Golang, Java, C++, HTML, SQL, PHP, C#, Vue js, C++, Laravel, SQL,
+                 Intune, Azure, Visual Studio, PowerShell, App Deployment
 
 - My website: https://daniilsonufrijuks.github.io
 - My Linkedin: https://linkedin.com/in/daniils-onufrijuks-a4391930b
