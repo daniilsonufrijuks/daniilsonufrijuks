@@ -111,19 +111,10 @@ QR codes that join a Wi-Fi network or open a link.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=daniilsonufrijuks&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=daniilsonufrijuks&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=0969da&icon_color=0969da&text_color=1f2328&bg_color=ffffff">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilsonufrijuks&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilsonufrijuks&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=0969da&text_color=1f2328&bg_color=ffffff">
-</picture>
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=daniilsonufrijuks&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/daniilsonufrijuks)
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=daniilsonufrijuks&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/daniilsonufrijuks)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=daniilsonufrijuks&hide_border=true&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&background=0d1117">
-  <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=daniilsonufrijuks&hide_border=true&theme=transparent&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=1f2328&dates=656d76&background=ffffff">
-</picture>
+[![Contribution streak](https://streak-stats.demolab.com?user=daniilsonufrijuks&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&background=0d1117)](https://github.com/daniilsonufrijuks)
 
 </div>
 
