@@ -1,36 +1,142 @@
+<div align="center">
 
+<table align="center">
+<tr>
+<td>
 
-     ___       __   _______   ___       ________  ________  _____ ______   _______      
-    |\  \     |\  \|\  ___ \ |\  \     |\   ____\|\   __  \|\   _ \  _   \|\  ___ \     
-    \ \  \    \ \  \ \   __/|\ \  \    \ \  \___|\ \  \|\  \ \  \\\__\ \  \ \   __/|    
-     \ \  \  __\ \  \ \  \_|/_\ \  \    \ \  \    \ \  \\\  \ \  \\|__| \  \ \  \_|/__  
-      \ \  \|\__\_\  \ \  \_|\ \ \  \____\ \  \____\ \  \\\  \ \  \    \ \  \ \  \_|\ \ 
-       \ \____________\ \_______\ \_______\ \_______\ \_______\ \__\    \ \__\ \_______\
-        \|____________|\|_______|\|_______|\|_______|\|_______|\|__|     \|__|\|_______|
-                                                                                    
-                                                                                    
-                                                                                    
+<pre>
+__      _____ _    ___ ___  __  __ ___
+\ \    / / __| |  / __/ _ \|  \/  | __|
+ \ \/\/ /| _|| |_| (_| (_) | |\/| | _|
+  \_/\_/ |___|____\___\___/|_|  |_|___|
+</pre>
 
-< -------------------------------------------------------------------------------------------------------------------------------------------------- >
-- 👋 Hi, I’m Dan
-- 👀 I’m interested in programming
-- 🌱 My skills: Python, Golang, Java, C++, HTML, SQL, PHP, C#, Vue js, C++, Laravel, SQL,
-                 Intune, Azure, Visual Studio, PowerShell, App Deployment, App Packaging
+</td>
+</tr>
+</table>
 
-- My Website: https://comtem.rvtdev.tech/
-- My Linkedin: https://linkedin.com/in/daniils-onufrijuks-a4391930b
-- My portfolio: https://daniilsonufrijuks.github.io/PORTFOLIO-MAIN/
+# Daniils Onufrijuks
 
-- Web market example: https://mimarketnet.netlify.app
-- Online programming courses website: https://kotlinhubnet.netlify.app 
+**Application packaging · Software engineer · Riga, Latvia**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&height=48&lines=Packaging+apps+for+Intune;PowerShell%2C+MSI%2C+and+automation;Web+apps+with+Laravel+and+Vue;Tools+that+stay+easy+to+maintain)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://daniilsonufrijuks.github.io/PORTFOLIO-MAIN/)
+[![Website](https://img.shields.io/badge/Comtem-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://comtem.rvtdev.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniils-onufrijuks-a4391930b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donufrijuks@gmail.com)
 
+</div>
 
-< -------------------------------------------------------------------------------------------------------------------------------------------------- >
+---
 
+## About
+
+I like taking something that is awkward to run by hand and turning it into a repeatable setup. Day to day that means Windows application packaging and desktop deployment: PowerShell, PSAppDeployToolkit, MSI/MST, and Microsoft Intune. Alongside that I build software in Python, Go, Java, C#, C++, PHP, and Vue.
+
+I care about clear code, careful troubleshooting, and installs that are easy for the next person to change. I am studying Information Technology at the University of Latvia and work on packaging and deployment at Atea Global Services. Based in Riga, open to collaboration.
+
+## Focus
+
+| | | |
+| --- | --- | --- |
+| **Packaging & deployment** | **Software** | **Web** |
+| Intune, MSI/MST, PSAppDeployToolkit, PowerShell, Azure DevOps | Python, Go, Java, C#, C++ | Laravel, Vue, HTML, CSS, SQL |
+
+## Stack
+
+<div align="center">
+
+![Languages](https://skillicons.dev/icons?i=py,go,java,cs,cpp,php,js&perline=7)
+![Web and data](https://skillicons.dev/icons?i=vue,laravel,html,css,bootstrap,mysql&perline=6)
+![Tools](https://skillicons.dev/icons?i=powershell,azure,docker,git,github,vscode,visualstudio&perline=7)
+
+</div>
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Java Bank](https://github.com/daniilsonufrijuks/Java-Bank-Application)
+Desktop internet bank: registration, login, deposits, withdrawals, loans, and shares. Built with Java and Swing.
+
+</td>
+<td width="50%" valign="top">
+
+### [Skebob](https://github.com/daniilsonufrijuks/Skebob)
+Snack shop with category browsing and a responsive storefront. Vue on the front, Laravel behind it.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Comtem](https://github.com/daniilsonufrijuks/Comtem_Project)
+Computer shop. Laravel, Vue, and Bootstrap. Live site: [comtem.rvtdev.tech](https://comtem.rvtdev.tech/).
+
+</td>
+<td width="50%" valign="top">
+
+### [GlowMotion](https://github.com/daniilsonufrijuks/GlowMotion)
+Car lights shop, built as a Vue storefront.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Product Parser](https://github.com/daniilsonufrijuks/Product-Parser)
+Python parser for pulling product data.
+
+</td>
+<td width="50%" valign="top">
+
+### [Wi-Fi QR](https://github.com/daniilsonufrijuks/WIFI-QR-Code)
+QR codes that join a Wi-Fi network or open a link.
+
+</td>
+</tr>
+</table>
+
+## On the web
+
+- [Portfolio](https://daniilsonufrijuks.github.io/PORTFOLIO-MAIN/) — packaging, projects, and contact
+- [Comtem](https://comtem.rvtdev.tech/) — computer shop
+- [MiMarket](https://mimarketnet.netlify.app) — market storefront
+- [KotlinHub](https://kotlinhubnet.netlify.app) — programming course site
+
+## GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=daniilsonufrijuks&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=daniilsonufrijuks&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=0969da&icon_color=0969da&text_color=1f2328&bg_color=ffffff">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilsonufrijuks&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilsonufrijuks&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=0969da&text_color=1f2328&bg_color=ffffff">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=daniilsonufrijuks&hide_border=true&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&background=0d1117">
+  <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=daniilsonufrijuks&hide_border=true&theme=transparent&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=1f2328&dates=656d76&background=ffffff">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+**Let’s build something that is easier to run the second time.**
+
+[Portfolio](https://daniilsonufrijuks.github.io/PORTFOLIO-MAIN/) · [LinkedIn](https://linkedin.com/in/daniils-onufrijuks-a4391930b) · [Email](mailto:donufrijuks@gmail.com)
+
+</div>
 
 <!---
-daniilsonufrijuks/daniilsonufrijuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+daniilsonufrijuks/daniilsonufrijuks is a special repository because its README.md appears on your GitHub profile.
 --->
