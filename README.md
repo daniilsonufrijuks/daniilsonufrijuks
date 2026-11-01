@@ -98,6 +98,15 @@ QR codes that join a Wi-Fi network or open a link.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [QuickSolve](https://github.com/daniilsonufrijuks/QuickSolve)
+Free business tools: profit margin calculator, product descriptions, and invoices with PDF export. Laravel and Vue, with plans and template downloads.
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ## On the web
