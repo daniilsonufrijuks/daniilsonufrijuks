@@ -113,7 +113,6 @@ Free business tools: profit margin calculator, product descriptions, and invoice
 
 - [Portfolio](https://daniilsonufrijuks.github.io/PORTFOLIO-MAIN/) — packaging, projects, and contact
 - [Comtem](https://comtem.rvtdev.tech/) — computer shop
-- [MiMarket](https://mimarketnet.netlify.app) — market storefront
 - [KotlinHub](https://kotlinhubnet.netlify.app) — programming course site
 
 ## GitHub
